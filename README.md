@@ -1,3 +1,5 @@
+IVY: Console-based Web Scraper
+--------------------
 
 This is a console-based application that scrapes information from the trending GitHub page and generates a CSV file containing the repository name, number of stars and programming language of the trending repositories (under today).
 
