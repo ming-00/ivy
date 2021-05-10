@@ -5,9 +5,9 @@ This is a console-based application that scrapes information from the trending G
 
 Technologies used
 --------------------
-Java 8
-JSoup
-Maven
+ * Java 8
+ * JSoup
+ * Maven
 
 Steps to run application on console
 --------------------
